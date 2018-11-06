@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Leaf
+comment1.params=
+comment1.target=Leaf()
+comment1.text=\r\n\ Randomizes\ leaves\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Gets\ rid\ of\ object\r\n
+comment3.params=
+comment3.target=void\ move()
+comment3.text=\r\n\ Makes\ the\ leaf\ move\r\n
+numComments=4

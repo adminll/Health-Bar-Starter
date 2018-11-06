@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Catcher
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Runs\ move()\ method,\ touchedLeaf()\ method\r\n
+comment2.params=
+comment2.target=void\ move()
+comment2.text=\r\n\ Lets\ you\ control\ the\ penguin\r\n
+comment3.params=
+comment3.target=void\ touchedLeaf()
+comment3.text=\r\n\ Updates\ score\ and\ makes\ noise\r\n
+numComments=4
